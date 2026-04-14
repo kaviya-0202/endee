@@ -1,0 +1,39 @@
+Endee is a high-performance vector database designed for AI and machine learning applications.
+
+Vector databases store embeddings, which are numerical representations of text or data.
+
+Embeddings help in understanding semantic meaning rather than exact keywords.
+
+Semantic search retrieves information based on meaning and context.
+
+RAG stands for Retrieval Augmented Generation, which improves AI responses by retrieving relevant data.
+
+RAG combines retrieval systems with generative models.
+
+Machine learning is a field of AI that enables systems to learn from data.
+
+Overfitting occurs when a model learns noise instead of patterns.
+
+Batch normalization helps stabilize and speed up neural network training.
+
+Neural networks are composed of layers of interconnected nodes.
+
+Deep learning is a subset of machine learning focused on neural networks.
+
+Cosine similarity measures similarity between two vectors.
+
+Dot product is another way to measure similarity between vectors.
+
+Data preprocessing is important before training models.
+
+Feature engineering improves model performance.
+
+Artificial intelligence enables machines to simulate human intelligence.
+
+Natural language processing helps machines understand human language.
+
+Vector search is widely used in recommendation systems.
+
+Recommendation systems suggest items based on user preferences.
+
+Large language models generate human-like text responses.
