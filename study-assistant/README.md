@@ -140,6 +140,19 @@ http://localhost:8501
 * Add chatbot-style responses
 
 ---
+## 📸 Demo
+
+### 🔹 Terminal Output
+![Terminal](image/terminal.png)
+
+### 🔹 UI Screen
+![UI](image/ui.png)
+
+### 🔹 Search Result
+![Search](image/search.png)
+
+### 🔹 Project Structure
+![Structure](image/structure.png)
 
 ## 📌 Conclusion
 
